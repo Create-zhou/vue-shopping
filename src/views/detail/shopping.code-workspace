@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "G:\\360MoveData\\Users\\Administrator\\Desktop\\java-以废\\jq"
+		},
+		{
+			"path": "G:\\360MoveData\\Users\\Administrator\\Desktop\\java-以废\\vue"
+		},
+		{
+			"path": "G:\\360MoveData\\Users\\Administrator\\Desktop\\java-以废\\webpack"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "vue"
+	}
+}
